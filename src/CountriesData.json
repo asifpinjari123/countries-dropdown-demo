@@ -1,0 +1,43 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "states": [
+          {
+            "name": "California",
+            "cities": ["Los Angeles", "San Francisco", "San Diego"]
+          },
+          {
+            "name": "New York",
+            "cities": ["New York City", "Buffalo", "Albany"]
+          }
+        ]
+      },
+      {
+        "name": "United Kingdom",
+        "states": [
+          {
+            "name": "England",
+            "cities": ["London", "Manchester", "Birmingham"]
+          },
+          {
+            "name": "Scotland",
+            "cities": ["Edinburgh", "Glasgow", "Aberdeen"]
+          }
+        ]
+      },
+      {
+        "name": "India",
+        "states": [
+          {
+            "name": "Maharashtra",
+            "cities": ["Mumbai", "Pune", "Nagpur"]
+          },
+          {
+            "name": "Tamil Nadu",
+            "cities": ["Chennai", "Coimbatore", "Madurai"]
+          }
+        ]
+      }
+    ]
+  }
